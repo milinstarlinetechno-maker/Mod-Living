@@ -1,0 +1,10 @@
+node_modules
+.env
+data/.secret
+data/admin.json
+data/leads.json
+data/*.tmp
+data/employees.json
+data/attendance.json
+data/payroll.json
+data/hr-settings.json
